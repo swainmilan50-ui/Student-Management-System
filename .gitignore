@@ -1,0 +1,9 @@
+.vscode/
+*.exe
+*.o
+*.out
+student
+linux/*.ko
+linux/driver_test
+linux/system_test
+api/student_server
